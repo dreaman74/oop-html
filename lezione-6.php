@@ -9,6 +9,12 @@
 <body>
 <h1>Modificatori di Accesso / Indicatori di Visibilità</h1>
 
+<ul>
+    <li>Public (defualt)</li>
+    <li>Protected</li>
+    <li>Private</li>
+</ul>
+
 <h2>public</h2>
 <p>I membri (proprietà e metodi) di una classe dichiarati con l'indicatore di visibilità public, 
 sono accessibili sia dall'esterno della classe sia dalle classi derivate da essa.</p>
