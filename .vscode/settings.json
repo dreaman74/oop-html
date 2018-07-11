@@ -1,2 +1,5 @@
+// Inserire le impostazioni in questo file per sovrascrivere quelle utente
 {
+    "window.zoomLevel": 0,
+    "git.autofetch": true
 }
