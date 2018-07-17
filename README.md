@@ -1,6 +1,4 @@
-# PHP Programmazione OOP - Miei Appunti
+# PHP Programmazione a Oggetti la Guida - Miei Appunti
 
-Questo Repository è stato inizializzato tramite VS Code
-tramite il comando 'git Initalize' in VS Code, selezionando il folder oop-html
-
-Questa riga è stata aggiunta tramite VS Code su Asus-Z97PRO
+Appunti della Guida OOP di HTML.it
+Reference http://www.html.it/guide/guida-programmazione-ad-oggetti-con-php-5/
