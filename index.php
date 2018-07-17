@@ -18,7 +18,7 @@
         <h3>OOP vs Codice Procedurale</h3>
     	<ul>
         	<li>
-            <a href="capitolo_2/wrapper_per_la_stampa.php" alt="Wrapper per la Stampa">Un Wrapper per la Stampa</a>
+            <a href="capitolo-2/wrapper_per_la_stampa.php" alt="Wrapper per la Stampa">Un Wrapper per la Stampa</a>
             <p>Differenze concettuali tra Codice Procedurale e OOP</p>
             </li>
 		</ul>
